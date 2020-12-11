@@ -4,7 +4,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 - 📚 A Full-stack Web Developer ("HTML5, CSS3, JS, JQUERY, BOOTSTRAP, SASS, React&Redux, PHP, MySQL, Ruby, RubyOnRails")
-- 🧠 Currently learning about computational neuroscience and artificial intelligence
+- 🧠 Currently learning.
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
