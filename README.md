@@ -35,9 +35,6 @@
 <br />
 <br />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasPHP&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/YasPHP/github-readme-stats)
-
   
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
