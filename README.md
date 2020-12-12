@@ -29,8 +29,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="yasmeenbrain.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" src = "https://yasmeenbrain.com/" />
-<img align="left" alt="Yasmeen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://ca.linkedin.com/in/yasmeen-hmaidan-0ba3a8148" />
+<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "https://MohammedAtef.com/" />
+<img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
+<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "https://image.flaticon.com/icons/png/512/61/61045.png" />
+<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "https://MohammedAtef.com/" />
+<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "https://MohammedAtef.com/" />
 
 <br />
 <br />
