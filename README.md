@@ -25,11 +25,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "https://MohammedAtef.com/" />
+
 <img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
-<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "1.png" />
-<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "https://MohammedAtef.com/" />
-<img align="left" alt="MohammedAtef.com" width="22px" src="" src = "https://MohammedAtef.com/" />
+
 
 <br />
 <br />
