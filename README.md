@@ -32,8 +32,6 @@
 <img align="left" alt="Heroku" title="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" alt="SASS" title="SASS" width="26px" src="https://img.icons8.com/color/30/sass.png" />
 <img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://img.icons8.com/color/30/react-native.png" />
-<img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://img.icons8.com/color/30/twitter.png" />
-  
 </p>
 <br />
 <br />
@@ -43,8 +41,13 @@
 
 
 <img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
-<img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
-<img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
+<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/linked-in.png" />
+<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/linkedin.png" />
+
+<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/twitter.png" />
+
+<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/twitter.png" />
+
 
 
 
