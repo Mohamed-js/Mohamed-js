@@ -10,10 +10,11 @@
 </p>
 
 <br />
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 
 <p align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
   <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
 
