@@ -20,7 +20,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Github Desktop" width="26px" src="https://dl2.macupdate.com/images/icons256/39062.png?d=1522354604" />
-
+<img alt="JavaScript" title="JavaScript" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="PHP" title="PHP" height="28px"                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img alt="SQL" title="SQL" height="28px"                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="Heroku" title="Heroku" height="28px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 
 <br />
 
