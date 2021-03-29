@@ -23,7 +23,7 @@
 
 ## :wrench: Technologies:
 <br />
-<p align="center">
+<p align="left">
 <img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,6 +32,8 @@
   
 <img align="left" alt="JavaScript" title="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="PHP" title="PHP" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+</p>
+<p align="left">
 <img align="left" alt="SQL" title="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Heroku" title="Heroku" height="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" alt="SASS" title="SASS" height="26px" src="https://img.icons8.com/color/30/sass.png" />
