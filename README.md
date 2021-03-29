@@ -14,8 +14,11 @@
 
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
   <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
+
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 </p>
 
 ## :wrench: Technologies:
@@ -32,8 +35,8 @@
 <img align="left" alt="Heroku" title="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" alt="SASS" title="SASS" width="26px" src="https://img.icons8.com/color/30/sass.png" />
 <img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://img.icons8.com/color/30/react-native.png" />
-<img width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png">
-<img width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png">
+<img align="left" width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png">
+<img align="left" width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png">
 </p>
 <br />
 <br />
