@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 <br />
-
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,11 +26,16 @@
 <img align="left" alt="Heroku" title="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 
 <br />
-
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
 ### Connect with me:
 
 
 <img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
+<img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
+<img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
+
 
 
 <br />
