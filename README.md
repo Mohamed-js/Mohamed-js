@@ -36,7 +36,7 @@
 <img align="left" alt="SQL" title="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Heroku" title="Heroku" height="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" alt="SASS" title="SASS" height="26px" src="https://img.icons8.com/color/30/sass.png" />
-  </p>
+  </p><br/>
 <p align="center">  
 <img align="left" alt="ReactJS" title="ReactJS" height="26px" src="https://img.icons8.com/color/30/react-native.png" />
 <img align="left" height="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png">
