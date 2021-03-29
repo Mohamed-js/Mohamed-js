@@ -30,8 +30,9 @@
 <img align="left" alt="PHP" title="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Heroku" title="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
-![SASS](https://img.icons8.com/color/30/sass.png)
-![ReactJS](https://img.icons8.com/color/30/react-native.png)
+<img align="left" alt="SASS" title="SASS" width="26px" src="https://img.icons8.com/color/30/sass.png" />
+<img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://img.icons8.com/color/30/react-native.png" />
+
   
 </p>
 <br />
