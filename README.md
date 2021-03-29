@@ -32,7 +32,7 @@
 <img align="left" alt="Heroku" title="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" alt="SASS" title="SASS" width="26px" src="https://img.icons8.com/color/30/sass.png" />
 <img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://img.icons8.com/color/30/react-native.png" />
-
+<img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://img.icons8.com/color/30/twitter.png" />
   
 </p>
 <br />
