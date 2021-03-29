@@ -18,7 +18,7 @@
   <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
 
-### Languages and Tools:
+### :wrench: Technologies:
 <br />
 <p align="center" width="70%">
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
