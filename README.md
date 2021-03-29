@@ -40,13 +40,11 @@
 ## Connect with me:
 
 
-<img align="left" alt="Atef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" src = "https://www.linkedin.com/in/mohamed-atef-032b6b1b0/" />
-<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/linked-in.png" />
-<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/linkedin.png" />
+<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://img.icons8.com/color/30/linkedin.png" src = "https://www.linkedin.com/in/mohamed-js/" />
 
-<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/twitter.png" />
+<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/twitter.png" src = "https://twitter.com/Demovejetta" />
 
-<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/twitter.png" />
+<img align="left" alt="Facebook" title="Facebook" width="26px" src="https://img.icons8.com/color/30/facebook.png" src = "https://www.facebook.com/demoVejetta" />
 
 
 
