@@ -2,9 +2,11 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="30%">
 </p>
 
-<p align="center" width="80%">
-- 📚 A Full-stack Web Developer ("HTML5, CSS3, JS, JQUERY, BOOTSTRAP, SASS, React&Redux, PHP, MySQL, Ruby, RubyOnRails")
-- 🧠 Currently learning.
+<p align="center" width="70%">
+  📚 A Full-stack Web Developer
+</p>
+<p align="center" width="70%">
+  Using HTML5, CSS3, JS, JQUERY, BOOTSTRAP, SASS, React&Redux, PHP, MySQL, Ruby, RubyOnRails
 </p>
 
 <br />
