@@ -32,6 +32,8 @@
 <img align="left" alt="Heroku" title="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 <img align="left" alt="SASS" title="SASS" width="26px" src="https://img.icons8.com/color/30/sass.png" />
 <img align="left" alt="ReactJS" title="ReactJS" width="26px" src="https://img.icons8.com/color/30/react-native.png" />
+<img width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png">
+<img width="26px" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png">
 </p>
 <br />
 <br />
@@ -40,11 +42,11 @@
 ## Connect with me:
 
 
-<img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://img.icons8.com/color/30/linkedin.png" src = "https://www.linkedin.com/in/mohamed-js/" />
+<a href = "https://www.linkedin.com/in/mohamed-js/"><img align="left" alt="LinkedIn" title="LinkedIn" width="26px" src="https://img.icons8.com/color/30/linkedin.png" /></a>
 
-<img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/twitter.png" src = "https://twitter.com/Demovejetta" />
+<a href = "https://twitter.com/Demovejetta"><img align="left" alt="Twitter" title="Twitter" width="26px" src="https://img.icons8.com/color/30/twitter.png" /></a>
 
-<img align="left" alt="Facebook" title="Facebook" width="26px" src="https://img.icons8.com/color/30/facebook.png" src = "https://www.facebook.com/demoVejetta" />
+<a href = "https://www.facebook.com/demoVejetta"><img align="left" alt="Facebook" title="Facebook" width="26px" src="https://img.icons8.com/color/30/facebook.png" /></a>
 
 
 
