@@ -13,6 +13,10 @@
 <br />
 <br />
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
+
 ### Languages and Tools:
 <br />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -26,9 +30,7 @@
 <img align="left" alt="Heroku" title="Heroku" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png" />
 
 <br />
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-</p>
+
 ### Connect with me:
 
 
