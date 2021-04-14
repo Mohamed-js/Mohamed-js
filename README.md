@@ -6,7 +6,7 @@
   📚 A Full-Stack Web Developer
 </p>
 <p align="center" width="70%">
-  Using HTML5, CSS3, JavaScript, jQuery, Bootstrap, SASS, React&Redux, PHP, MySQL, Ruby, Ruby on Rails
+  Using HTML5, CSS3, JavaScript, jQuery, Bootstrap, SASS, React & Redux, PHP, MySQL, Ruby, Ruby on Rails
 </p>
 
 <br />
