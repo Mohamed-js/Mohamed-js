@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Mohamed-js&show_icons=true&count_private=false&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
 
 <p align="center" width="100%">
